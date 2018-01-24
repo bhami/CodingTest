@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class FindDuplicateCharacters {
 
 	public static void main(String[] args) {
+		System.out.println("Making first changes to test git");
 		printDuplicateCharacters("Programming");
 	}
 	
